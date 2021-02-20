@@ -9,3 +9,14 @@ Saving varies by the type of work you are doing:
 -- *Git repositories that you clone into the Sandbox are NOT automatically saved.* In this case, you are responsible for committing and pushing your work to GitHub. 
 
 To learn more about the Sandbox, please visit http://help.learn.co/technical-support/learn-ide-in-browser/ide-in-browser-sandbox
+
+current_president = "Barack Obama"
+puts "In 2016, the president was #{current_president}."
+
+
+learn-ide-in-browser
+
+famous_cats = ["lil' bub","grumpy cat", "Maru"]
+
+famous_cats << "nala cat"
+puts famous_cats.inspect
