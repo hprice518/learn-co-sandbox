@@ -5,11 +5,11 @@ require "pry"
 <html>
 
   <head>
-  
+  <!--this is the head portion!-->
   </head>
   
   <body>
-  
+  <!--this is the body portion!-->
   </body>
   
 </html>
