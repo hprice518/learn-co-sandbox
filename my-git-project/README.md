@@ -1,19 +1,11 @@
 require "pry"
+<<<<<<< HEAD
 
-<!DOCTYPE html>
+h1 {
+  color: blue; f
+  ont family: Georgia;
+}
 
-<html>
 
-  <head>
-  <!--this is the head portion!-->
-  </head>
-  
-  <body>
-  <!--this is the body portion!-->
-  </body>
-  
-</html>
-
-<!--NYC Pizza is world-famous, cheap, and love by vermin and humans alike!-->
-<p>Top 5 Pizza Places in NYC</p>
-
+=======
+>>>>>>> 8efc304e29208da3144484d110327e24312ac01b
