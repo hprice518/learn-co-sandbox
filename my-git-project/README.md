@@ -1,11 +1,19 @@
-require "pry"
-<<<<<<< HEAD
+class Album
 
-h1 {
-  color: blue; f
-  ont family: Georgia;
-}
+  @@album_count = 0 
+  
+  def self.count
+    @@album_count
+  end
+  
 
+  
+end
 
-=======
->>>>>>> 8efc304e29208da3144484d110327e24312ac01b
+  def release_date= (date)
+    @release_date = date 
+  end
+  
+  def @release_date
+    @release_date
+  end
